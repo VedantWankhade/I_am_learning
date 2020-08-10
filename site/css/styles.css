@@ -101,18 +101,19 @@ nav > ul > li > a:hover {
     
 article {
     margin: 2rem;
+    display: table;
     clear: both;
 }
 
 section {
-    margin-bottom: 10em;
+    margin-bottom: 0.0em;
     border-bottom: 2px solid pink;
 }
 
 footer {
     clear: both;
     border-top: 2px solid pink;
-    margin: 2em 0;
+    margin: 0.2em 0;
 }
 
 footer > ul {
